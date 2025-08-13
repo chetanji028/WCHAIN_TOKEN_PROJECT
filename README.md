@@ -1,0 +1,18 @@
+W Chain Token Project:-
+This project enables the creation, deployment, and management of an ERC-20-like token (MyToken) on the W Chain blockchain, a custom EVM-compatible blockchain with testnet (chain ID: 71117) and mainnet (chain ID: 171717).
+
+Overview:- 
+MyToken: An ERC-20-like contract for the W Chain native token, supporting standard functions like transfer, approve, mint, and burn.
+
+Blockchain: W Chain testnet (https://rpc-testnet.w-chain.com) and mainnet (https://rpc.w-chain.com).
+Block Explorers: Testnet (https://scan-testnet.w-chain.com), Mainnet (https://scan.w-chain.com).
+
+Deployed Contracts:
+MyToken (Testnet): 0x7Cf0BF6Dd6b729714558D23010f998bf85a55C1f
+
+
+Tools: Hardhat, OpenZeppelin, ethers.js (v6), and dotenv for secure configuration.
+
+
+
+
